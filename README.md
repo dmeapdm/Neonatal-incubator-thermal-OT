@@ -41,4 +41,4 @@ Tech Stack
 ## ☁️ Next Step: Cloud & Big Data Evolution
 This local metrological prototype represents the foundational data acquisition layer. To see how this raw IoT telemetry is scaled into a robust, cloud-based Big Data pipeline using **Azure**, **Databricks**, and **PySpark** under a multi-stage **Medallion Architecture**, check out the companion repository: 
 
-👉 [**Medallion Cold Chain Pipeline**](PEGAR_ACA_EL_LINK_DE_TU_OTRO_REPOSITORIO_DE_MEDALLION)
+👉 [**Medallion Cold Chain Pipeline**]([PEGAR_ACA_EL_LINK_DE_TU_OTRO_REPOSITORIO_DE_MEDALLION](https://github.com/dmeapdm/medallion-cold-chain-pipeline))
